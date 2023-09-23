@@ -1,4 +1,4 @@
-# Git Practice
+# Software Engineering Article
 
 ## Computer Science vs. Software Engineering
 
